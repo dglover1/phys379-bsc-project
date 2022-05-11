@@ -1,4 +1,4 @@
 - `Boole.py` - Python script to interface with the LHCb Boole (VELO response simulation) software - David Hutchcroft
 - `DaVinci.py` - Python script to interface with the LHCb DaVinci (track reconstruction) software - David Hutchcroft
-- `test.sh`, `...` - Bash scripts written to allow time-consuming simulations to be run in sequence - Daniel Glover
+- `test.sh`, `initialSims.sh`, `curveMapping.sh`, `maskingNoisyPixels.sh` - Bash scripts written to allow multiple time-consuming simulations to be run in sequence - Daniel Glover
 - `resultsParser.py` - Python script written to parse `DaVinci.log` output files for rapid extraction and collection of results
