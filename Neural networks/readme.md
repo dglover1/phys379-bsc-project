@@ -1,1 +1,2 @@
-a
+- `NNData_one.ipynb` - Python notebook where neural networks were designed and trained - Daniel Glover, based on original code by David Hutchcroft (supervisor)
+- 
