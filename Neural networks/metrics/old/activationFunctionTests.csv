@@ -1,0 +1,10 @@
+tile,hiddenLayers,batchSize,batchSizeAsFraction,epochs,trainingTimeSeconds,finalSparseCategoricalAccuracy,nodes,layers,activationFunction
+VP0-0,dense (Dense)                (None[comma] 5)                 30        ,32768,1,1999,54.540374,0.905639648,5,1,relu
+VP0-0,dense_20 (Dense)             (None[comma] 5)                 30        ,32768,1,1999,58.434158,0.89440918,5,1,relu
+VP0-0,dense_22 (Dense)             (None[comma] 5)                 30        ,32768,1,1999,59.181243,0.917053223,5,1,relu
+VP0-0,dense_24 (Dense)             (None[comma] 5)                 30        ,32768,1,1999,54.816367,0.600921631,5,1,sigmoid
+VP0-0,dense_26 (Dense)             (None[comma] 5)                 30        ,32768,1,1999,51.954312,0.620574951,5,1,sigmoid
+VP0-0,dense_28 (Dense)             (None[comma] 5)                 30        ,32768,1,1999,57.065751,0.612670898,5,1,sigmoid
+VP0-0,dense_30 (Dense)             (None[comma] 5)                 30        ,32768,1,1999,56.310051,0.757873535,5,1,tanh
+VP0-0,dense_32 (Dense)             (None[comma] 5)                 30        ,32768,1,1999,57.772379,0.753845215,5,1,tanh
+VP0-0,dense_34 (Dense)             (None[comma] 5)                 30        ,32768,1,1999,57.205459,0.713470459,5,1,tanh

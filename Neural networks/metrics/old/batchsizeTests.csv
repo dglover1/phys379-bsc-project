@@ -1,0 +1,25 @@
+tile,hiddenLayers,batchSize,batchSizeAsFraction,epochs,trainingTimeSeconds,finalSparseCategoricalAccuracy,nodes,layers,activationFunction
+VP0-0,dense_48 (Dense)             (None[comma] 5)                 30        ,32768,1,1999,55.579733,0.895507813,5,1,relu
+VP0-0,dense_50 (Dense)             (None[comma] 5)                 30        ,32768,1,1999,56.577458,0.89855957,5,1,relu
+VP0-0,dense_52 (Dense)             (None[comma] 5)                 30        ,32768,1,1999,57.090935,0.88369751,5,1,relu
+VP0-0,dense_54 (Dense)             (None[comma] 5)                 30        ,16384,0.5,605,17.947292,0.743774414,5,1,relu
+VP0-0,dense_56 (Dense)             (None[comma] 5)                 30        ,16384,0.5,621,18.589002,0.731262207,5,1,relu
+VP0-0,dense_58 (Dense)             (None[comma] 5)                 30        ,16384,0.5,633,18.748043,0.783538818,5,1,relu
+VP0-0,dense_60 (Dense)             (None[comma] 5)                 30        ,8192,0.25,304,11.90275,0.676940918,5,1,relu
+VP0-0,dense_62 (Dense)             (None[comma] 5)                 30        ,8192,0.25,336,12.592952,0.700378418,5,1,relu
+VP0-0,dense_64 (Dense)             (None[comma] 5)                 30        ,8192,0.25,282,11.311988,0.696655273,5,1,relu
+VP0-0,dense_70 (Dense)             (None[comma] 5)                 30        ,4096,0.125,236,11.739488,0.726470947,5,1,relu
+VP0-0,dense_72 (Dense)             (None[comma] 5)                 30        ,4096,0.125,183,10.075,0.685943604,5,1,relu
+VP0-0,dense_74 (Dense)             (None[comma] 5)                 30        ,4096,0.125,170,9.299609,0.709503174,5,1,relu
+VP0-0,dense_76 (Dense)             (None[comma] 5)                 30        ,2048,0.0625,131,10.767512,0.67388916,5,1,relu
+VP0-0,dense_78 (Dense)             (None[comma] 5)                 30        ,2048,0.0625,116,9.486219,0.673034668,5,1,relu
+VP0-0,dense_80 (Dense)             (None[comma] 5)                 30        ,2048,0.0625,104,8.490136,0.661956787,5,1,relu
+VP0-0,dense_82 (Dense)             (None[comma] 5)                 30        ,1024,0.03125,94,11.295596,0.694824219,5,1,relu
+VP0-0,dense_84 (Dense)             (None[comma] 5)                 30        ,1024,0.03125,95,11.604906,0.682739258,5,1,relu
+VP0-0,dense_86 (Dense)             (None[comma] 5)                 30        ,1024,0.03125,81,10.021366,0.692718506,5,1,relu
+VP0-0,dense_88 (Dense)             (None[comma] 5)                 30        ,512,0.015625,101,17.430089,0.711425781,5,1,relu
+VP0-0,dense_90 (Dense)             (None[comma] 5)                 30        ,512,0.015625,76,12.828909,0.715240479,5,1,relu
+VP0-0,dense_92 (Dense)             (None[comma] 5)                 30        ,512,0.015625,76,14.313219,0.714904785,5,1,relu
+VP0-0,dense_102 (Dense)            (None[comma] 5)                 30        ,256,0.0078125,33,10.957013,0.723907471,5,1,relu
+VP0-0,dense_104 (Dense)            (None[comma] 5)                 30        ,256,0.0078125,72,21.552882,0.745117188,5,1,relu
+VP0-0,dense_106 (Dense)            (None[comma] 5)                 30        ,256,0.0078125,50,14.795422,0.721954346,5,1,relu

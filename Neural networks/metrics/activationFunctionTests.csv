@@ -1,0 +1,10 @@
+sensor,hiddenLayers,batchSize,batchSizeAsFraction,epochs,trainingTimeSeconds,finalSparseCategoricalAccuracy,evaluatedAccuracy,nodes,layers,activationFunction
+VP0-0,dense_18 (Dense)             (None[comma] 5)                 30        ,32768,1,1999,56.355875,0.886199951,0.856903076,5,1,relu
+VP0-0,dense_20 (Dense)             (None[comma] 5)                 30        ,32768,1,1999,55.546685,0.916046143,0.863861084,5,1,relu
+VP0-0,dense_22 (Dense)             (None[comma] 5)                 30        ,32768,1,1999,56.819216,0.909088135,0.874267578,5,1,relu
+VP0-0,dense_24 (Dense)             (None[comma] 5)                 30        ,32768,1,1999,55.822781,0.609527588,0.569122314,5,1,sigmoid
+VP0-0,dense_26 (Dense)             (None[comma] 5)                 30        ,32768,1,1999,56.076654,0.660644531,0.628875732,5,1,sigmoid
+VP0-0,dense_28 (Dense)             (None[comma] 5)                 30        ,32768,1,1999,56.413715,0.647888184,0.607574463,5,1,sigmoid
+VP0-0,dense_30 (Dense)             (None[comma] 5)                 30        ,32768,1,1999,56.950866,0.731262207,0.727325439,5,1,tanh
+VP0-0,dense_32 (Dense)             (None[comma] 5)                 30        ,32768,1,1999,55.642065,0.767242432,0.766571045,5,1,tanh
+VP0-0,dense_34 (Dense)             (None[comma] 5)                 30        ,32768,1,1999,56.57226,0.723297119,0.713165283,5,1,tanh

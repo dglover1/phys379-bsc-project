@@ -1,0 +1,17 @@
+sensor,hiddenLayers,batchSize,batchSizeAsFraction,epochs,trainingTimeSeconds,finalSparseCategoricalAccuracy,evaluatedAccuracy,nodes,layers,activationFunction
+VP0-0,dense (Dense)                (None[comma] 250)               1500      ,32768,1,1999,258.353566,0.972137451,0.967193604,250,?,relu
+VP0-0,dense (Dense)                (None[comma] 250)               1500      ,32768,1,1999,235.820259,0.97253418,0.965759277,250,?,relu
+VP0-1,dense_2 (Dense)              (None[comma] 250)               1500      ,32768,1,1999,280.773724,0.978881836,0.976531982,250,?,relu
+VP0-0,dense (Dense)                (None[comma] 250)               1500      ,32768,1,1999,284.448385,0.972686768,0.966003418,250,?,relu
+VP0-2,dense (Dense)                (None[comma] 250)               1500      ,32768,1,1999,273.460573,0.97756958,0.974334717,250,?,relu
+VP1-0,dense_2 (Dense)              (None[comma] 250)               1500      ,32768,1,1999,285.221822,0.981384277,0.97467041,250,?,relu
+VP1-1,dense_4 (Dense)              (None[comma] 250)               1500      ,32768,1,1999,273.080156,0.976959229,0.975250244,250,?,relu
+VP1-2,dense_6 (Dense)              (None[comma] 250)               1500      ,32768,1,1999,282.594148,0.979858398,0.979064941,250,?,relu
+VP1-0,dense_8 (Dense)              (None[comma] 250)               1500      ,32768,1,1999,281.060572,0.981323242,0.976379395,250,?,relu
+VP2-0,dense_10 (Dense)             (None[comma] 250)               1500      ,32768,1,1999,276.509297,0.975585938,0.973968506,250,?,relu
+VP2-1,dense_12 (Dense)             (None[comma] 250)               1500      ,32768,1,1999,251.750982,0.977294922,0.976257324,250,?,relu
+VP2-2,dense_14 (Dense)             (None[comma] 250)               1500      ,32768,1,1999,280.404783,0.974090576,0.971221924,250,?,relu
+VP2-2,dense (Dense)                (None[comma] 250)               1500      ,32768,1,1999,288.673709,0.97442627,0.970306396,250,?,relu
+VP3-0,dense_2 (Dense)              (None[comma] 250)               1500      ,32768,1,1999,289.556451,0.971862793,0.968536377,250,?,relu
+VP3-1,dense_4 (Dense)              (None[comma] 250)               1500      ,32768,1,1999,280.944846,0.972869873,0.970031738,250,?,relu
+VP3-2,dense_6 (Dense)              (None[comma] 250)               1500      ,32768,1,1999,287.620642,0.973175049,0.971588135,250,?,relu

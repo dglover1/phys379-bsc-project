@@ -1,0 +1,16 @@
+tile,hiddenLayers,batchSize,batchSizeAsFraction,epochs,trainingTimeSeconds,finalSparseCategoricalAccuracy,nodes,layers
+VP0-0,dense (Dense)                (None[comma] 500)               3000      ,32768,1,1977,420.635927,0.9737854,500,1
+VP0-0,dense_2 (Dense)              (None[comma] 500)               3000      ,32768,1,1999,431.770324,0.973602295,500,1
+VP0-0,dense_4 (Dense)              (None[comma] 500)               3000      ,32768,1,1999,459.892107,0.973297119,500,1
+VP0-0,dense_6 (Dense)              (None[comma] 250)               1500      ,32768,1,1999,242.048234,0.972442627,250,1
+VP0-0,dense_8 (Dense)              (None[comma] 250)               1500      ,32768,1,1999,251.311176,0.97265625,250,1
+VP0-0,dense_10 (Dense)             (None[comma] 250)               1500      ,32768,1,1999,247.587001,0.972320557,250,1
+VP0-0,dense (Dense)                (None[comma] 100)               600       ,32768,1,1999,104.834609,0.970214844,100,1
+VP0-0,dense_2 (Dense)              (None[comma] 100)               600       ,32768,1,1999,107.881999,0.969909668,100,1
+VP0-0,dense_4 (Dense)              (None[comma] 100)               600       ,32768,1,1999,114.146003,0.970153809,100,1
+VP0-0,dense_6 (Dense)              (None[comma] 50)                300       ,32768,1,1999,83.933708,0.965698242,50,1
+VP0-0,dense_8 (Dense)              (None[comma] 50)                300       ,32768,1,1999,87.059,0.961303711,50,1
+VP0-0,dense_10 (Dense)             (None[comma] 50)                300       ,32768,1,1999,78.757991,0.964569092,50,1
+VP0-0,dense_12 (Dense)             (None[comma] 5)                 30        ,32768,1,1999,51.847998,0.861328125,5,1
+VP0-0,dense_14 (Dense)             (None[comma] 5)                 30        ,32768,1,1999,53.797,0.889862061,5,1
+VP0-0,dense_16 (Dense)             (None[comma] 5)                 30        ,32768,1,1999,50.917823,0.878967285,5,1
