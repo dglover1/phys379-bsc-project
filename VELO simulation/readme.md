@@ -2,3 +2,4 @@
 - `DaVinci.py` - Python script to interface with the LHCb DaVinci (track reconstruction) software - David Hutchcroft
 - `test.sh`, `initialSims.sh`, `curveMapping.sh`, `maskingNoisyPixels.sh` - Bash scripts written to allow multiple time-consuming simulations to be run in sequence - Daniel Glover
 - `resultsParser.py` - Python script written to parse `DaVinci.log` output files for rapid extraction and collection of results
+- `plots.ipynb` - Python nodebook where plots of the VELO simulation results are made - Daniel Glover
